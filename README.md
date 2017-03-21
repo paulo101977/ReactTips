@@ -11,7 +11,7 @@ render({
 })
 ```
 
-## Render element with funcion anonymous:
+## Render element with function anonymous:
 ```javascript
 render({
   <div>

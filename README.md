@@ -17,7 +17,7 @@ render({
   (()=>{ console.log('just for test!') })()
 ```
 
-## Render element with function anonymous:
+## Render element with anonymous function:
 ```javascript
 render({
   <div>

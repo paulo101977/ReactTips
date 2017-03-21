@@ -22,11 +22,10 @@ render({
 render({
   <div>
     {
-      (
-        () => 
-        {
-          <ElementDemo></ElementDemo>
-        }
+      ( () => 
+          {
+            <ElementDemo></ElementDemo>
+          }
       )() 
     }
   </div>

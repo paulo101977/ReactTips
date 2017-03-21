@@ -6,7 +6,7 @@ This is my personal tips for React use
 ```javascript
 render({
   <div>
-    {/* this is a comment inside reac */}
+    {/* this is a comment inside React components */}
   </div>
 })
 ```

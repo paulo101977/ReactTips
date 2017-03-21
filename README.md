@@ -11,6 +11,12 @@ render({
 })
 ```
 
+#### Auto invoke anonymous function ES6:
+
+```javascript
+  (()=>{ console.log('just for test!') })()
+```
+
 ## Render element with function anonymous:
 ```javascript
 render({
